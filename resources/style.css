@@ -1,0 +1,21 @@
+html {
+  font-family: Helvetica;
+  font-size: 18px;
+}
+
+body {
+  width: 100%;
+}
+
+.container {
+  width: 960px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header {
+  width: 960px;
+  height: auto;
+}
